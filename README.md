@@ -134,7 +134,6 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-03-16 092812.png>)
-
+![alt text](<Screenshot 2026-03-16 115540.png>)
 ## RESULT:
 A responsive and visually appealing CAMU Schedule web page using Bootstrap is designed successfully.
